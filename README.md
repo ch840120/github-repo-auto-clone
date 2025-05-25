@@ -1,4 +1,4 @@
-# ⚙️ github-repo-auto-clone
+# 👨‍💻 github-repo-auto-clone
 
 一鍵自動克隆多個 GitHub Repository 的小工具，適合懶人使用！✨
 
